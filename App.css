@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.App{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    background: #2980B9;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #FFFFFF, #6DD5FA, #2980B9);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #FFFFFF, #6DD5FA, #2980B9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    ;
+}
+.react-chatbot-kit-chat-container {
+    width: 400px;
+}
+
+element.style {}
+
+.react-chatbot-kit-chat-bot-message {
+    margin-left: 30px;
+}
+
+.react-chatbot-kit-chat-bot-message{
+    background-color: burlywood;
+}
+
+.ADE{
+    background-color:#2980B9 ;
+    width: 50px;
+    height: 50px;
+    display: grid;
+    place-items: centre;
+    color: white;
+    border-radius: 100%;
+}
+
+/* Assuming your CSS is in an appropriate file, like App.css or a specific .css for the component */
+/* In App.css or StartBtn.css */
+.start-btn {
+    padding: .5rem 1rem;
+    color: black;
+    border-radius: 99px;
+    cursor: pointer;
+    border: none;
+  }
+  
+  
+  
+  
